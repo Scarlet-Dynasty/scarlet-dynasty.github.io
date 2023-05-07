@@ -7,10 +7,6 @@
     - [Christmas Festival](/worlds/xmas-festival)
     - [UNO - Color Blind Friendly](/worlds/uno)
 
-<br>
-<br>
-<br>
-
 ## Resource Packs
 
 - **2022**
