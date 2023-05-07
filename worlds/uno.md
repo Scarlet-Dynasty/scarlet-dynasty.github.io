@@ -6,6 +6,15 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 <br>
 <br>
 
+# Table Of Contents
+- [Features](/worlds/uno#features)
+- [How To Play](/worlds/uno#how-to-play)
+- [UNO Rules](/worlds/uno#uno-rules)
+- [Leaderboard](/worlds/uno#leaderboard)
+- [Statistics](/worlds/uno#statistics)
+- [Credits](/worlds/uno#credits)
+- [Download UNO.mcworld](/worlds/uno#download-uno.mcworld)
+
 # Features
 
 ## Color Blind Friendly
