@@ -203,7 +203,7 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 <br>
 <br>
 
-## [See All Projects](https://scarlet-dynasty.github.io#projects)
+## [See All Projects](/projects)
 
 <br>
 <br>
