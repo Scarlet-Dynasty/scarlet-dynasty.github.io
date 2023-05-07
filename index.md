@@ -36,4 +36,8 @@ Now here we are, we came together again and started doing things together again,
 <br>
 <br>
 
-# [Our Projects](/projects)
+# [Projects](/projects)
+
+<br>
+<br>
+<br>
