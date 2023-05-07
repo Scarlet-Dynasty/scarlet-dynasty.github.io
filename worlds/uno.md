@@ -13,7 +13,7 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 - [Leaderboard](/worlds/uno#leaderboard)
 - [Statistics](/worlds/uno#statistics)
 - [Credits](/worlds/uno#credits)
-- [Download UNO.mcworld](/worlds/uno#download-uno.mcworld)
+- [Download UNO.mcworld](/worlds/uno#download-unomcworld)
 
 <br>
 <br>
