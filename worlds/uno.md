@@ -196,16 +196,13 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 - Link this page in description if you make YouTube videos.
 
 <br>
-<br>
 
 ## [Give Feedback / Report Bugs](https://discord.gg/SaQbuBUuuw)
 
 <br>
-<br>
 
 ## [See All Projects](/projects)
 
-<br>
 <br>
 
 ## Socials
