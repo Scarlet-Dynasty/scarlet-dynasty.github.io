@@ -11,6 +11,7 @@ Now here we are, we came together again and started doing things together again,
 
 <br>
 <br>
+<br>
 
 # Development Team
 
@@ -23,6 +24,7 @@ Now here we are, we came together again and started doing things together again,
 
 <br>
 <br>
+<br>
 
 # Socials
 
@@ -32,20 +34,6 @@ Now here we are, we came together again and started doing things together again,
 
 <br>
 <br>
-
-# Projects
-
-## Worlds
-
-- **2022**
-    - [Birchview Estate](/worlds/birchview-estate)
-    - [Christmas Festival](/worlds/xmas-festival)
-    - [UNO - Color Blind Friendly](/worlds/uno)
-
 <br>
 
-## Resource Packs
-
-- **2022**
-    - [Clean Mosaic Glass](/resource-packs/clean-mosaic-glass)
-    - [Noble Eneavours](resource-packs/noble-endeavours)
+# [Our Projects](/projects)
