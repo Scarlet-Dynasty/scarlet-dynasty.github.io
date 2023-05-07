@@ -4,6 +4,7 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 
 <br>
 <br>
+<br>
 
 # Features
 
@@ -13,14 +14,21 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 
 ![UNO_ColorADD_Social](https://user-images.githubusercontent.com/99989764/236642542-4edd79a3-4acc-42ce-92c7-076364bde6d1.jpg)
 
+<br>
+<br>
+
 ## 2-4 Player Map
 
 ![UNO_Map_1](https://user-images.githubusercontent.com/99989764/236642454-ebcdef4e-d7b2-4e77-92db-1cf0ff891711.jpg)
+
+<br>
+<br>
 
 ## 5-10 Player Map
 
 ![UNO_Map_2](https://user-images.githubusercontent.com/99989764/236552812-52379e16-7c46-4d13-9ced-617fdad6d2e9.jpg)
 
+<br>
 <br>
 <br>
 
@@ -37,6 +45,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 
 ![UNO_ROBOT_NPC_GUI](https://user-images.githubusercontent.com/99989764/236642478-0794f1ef-20a6-4779-8066-22fc4d712780.jpg)
 
+<br>
 <br>
 
 ## Controls
@@ -73,6 +82,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 
 <br>
 <br>
+<br>
 
 # UNO Rules
 
@@ -93,6 +103,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 
 <br>
 <br>
+<br>
 
 # Leaderboard
 
@@ -101,6 +112,7 @@ You also get ranked in the leaderboard in menu.
 
 ![UNO_leaderboard](https://user-images.githubusercontent.com/99989764/236597748-a59f6882-0e90-4b88-af74-bf5e34703514.png)
 
+<br>
 <br>
 <br>
 
@@ -119,6 +131,7 @@ Press & hold screen or right-click while holding the stats item to toggle ON/OFF
 
 <br>
 <br>
+<br>
 
 # Credits
 
@@ -133,6 +146,7 @@ This map was made possible with the hard efforts of the Scarlet Dynasty developm
 - Zhea Evyline
 
 <br>
+<br>
 
 ## Asset Design Assistance
 
@@ -140,6 +154,7 @@ Thanks to the fellow developers who assisted us and gave us directions when we h
 - Argent
 - shanewolf38
 
+<br>
 <br>
 
 ## Beta Play Testers
@@ -167,13 +182,16 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 - Link this page in description if you make YouTube videos.
 
 <br>
+<br>
 
 ## [Give Feedback / Report Bugs](https://discord.gg/SaQbuBUuuw)
 
 <br>
+<br>
 
-## [See All Projects](https://github.com/Scarlet-Dynasty#projects)
+## [See All Projects](https://scarlet-dynasty.github.io#projects)
 
+<br>
 <br>
 
 ## Socials
