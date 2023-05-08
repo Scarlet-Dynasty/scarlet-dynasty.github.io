@@ -1,6 +1,6 @@
-# Projects
-
-<br>
+---
+title: Projects
+---
 
 ## Worlds
 

@@ -1,4 +1,6 @@
-# UNO - Color Blind Friendly
+---
+title: UNO - Color Blind Friendly
+---
 
 Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minecraft** with upto 10 friends featuring two maps; a cozy cottage & a lovely campsite!
 

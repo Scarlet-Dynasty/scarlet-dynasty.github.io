@@ -1,0 +1,18 @@
+title: Scarlet Dynasty
+
+# Build settings
+# theme: architect | cayman | dinky | hacker | leap day | merlot | midnight | minima | minimal | modernist | slate | tactile | time machine
+# OR
+# remote_theme: user/repo
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      permalink: /:path/:basename

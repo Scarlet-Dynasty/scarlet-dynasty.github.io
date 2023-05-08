@@ -1,4 +1,6 @@
-# About Us
+---
+title: About Us
+---
 
 We are a team of skilled developers & designers working together to create the next revolutionary thing to the Minecraft community. Our standard is set high, so expect high-quality content that either meshes well with the vanilla game or it is so well put together that it feels like a completely different game!
 

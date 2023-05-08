@@ -1,0 +1,30 @@
+<nav id="topnav">
+	<div id="navtitle">
+		<a href="/">
+			<img src="/assets/images/logo.webp" alt="Scarlet Dynasty Logo" />
+			<h1>Scarlet Dynasty</h1>
+		</a>
+	</div>
+	<div id="navlinks">
+		<ul>
+			{% for item in site.data.navigation %}
+			{% if item.dropdown == nil %}
+			<li>
+				<a href="{{ item.link }}" {% if page.url == item.link %}id="navcurrent"{% endif %}>{{ item.text }}</a>
+			</li>
+			{% else %}
+			<li class="nav-dropdown">
+				<a href="{{ item.link }}" {% if page.url contains item.link %}id="navcurrent"{% endif %}>{{ item.text }}</a>
+				<ul class="nav-dropdown-content">
+					{% for subitem in item.dropdown %}
+					<li>
+						<a href="{{ subitem.link }}">{{ subitem.text }}</a>
+					</li>
+					{% endfor %}
+				</ul>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
+</nav>
