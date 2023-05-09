@@ -67,7 +67,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 
 ## Controls
 
-![UNO_gameplay](https://user-images.githubusercontent.com/99989764/236598242-11749435-b0a3-4c63-b7e8-8bb672cc3701.png)
+![UNO_gameplay](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/9f1650fb-1f43-4749-b05d-55714d1bfcc8)
 
 ### How To Play A Card
 
@@ -95,7 +95,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 - Game will be cancelled at 50% vote from in-game players.
 - It is helpful when you encounter a bug or need to restart with someone who just joined.
 
-![UNO_Robot_NPC_dialog_cancel_game](https://user-images.githubusercontent.com/99989764/236646716-280dd571-88e7-4117-bcc9-cfaa8439d4bf.jpg)
+![UNO_cancel_game](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/0ee901b5-ec8c-4ad9-93db-712b89d8500d)
 
 <br>
 <br>
@@ -127,7 +127,7 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 Every time you hit **500 points** your points will reset and you will get **+1 winner trophy**.<br>
 You also get ranked in the leaderboard in menu.
 
-![UNO_leaderboard](https://user-images.githubusercontent.com/99989764/236597748-a59f6882-0e90-4b88-af74-bf5e34703514.png)
+![Screenshot_20230509-185007](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/acab59d1-cfbf-441d-803f-e198e7157321)
 
 <br>
 <br>
