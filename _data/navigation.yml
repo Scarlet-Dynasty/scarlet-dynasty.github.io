@@ -1,7 +1,7 @@
 - link: /
   text: About
-- link: /worlds
-  text: Worlds
+- link: /maps
+  text: Maps
 - link: /addons
   text: Add-Ons
 - link: /resource-packs
