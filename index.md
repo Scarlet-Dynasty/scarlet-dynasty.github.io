@@ -38,7 +38,11 @@ Now here we are, we came together again and started doing things together again,
 <br>
 <br>
 
-# [Projects](/projects)
+# [Projects]
+
+- **[Worlds](/worlds)**
+- **[Add-Ons](/addons)**
+- **[Resource Packs](/resource-packs)**
 
 <br>
 <br>
