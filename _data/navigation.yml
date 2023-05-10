@@ -1,4 +1,8 @@
 - link: /
   text: About
-- link: /projects
-  text: Projects
+- link: /worlds
+  text: Worlds
+- link: /addons
+  text: Add-Ons
+- link: /resource-packs
+  text: Resource Packs
