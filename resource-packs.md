@@ -1,3 +1,7 @@
+---
+title: Resource Packs
+---
+
 # [Clean Mosaic Glass](/resource-packs/clean-mosaic-glass)
 
 Have you ever built something medieval and thought to yourself “hmm, how nice would it be to have some proper mosaic glass textures for this particular build”… Well Here you are!
