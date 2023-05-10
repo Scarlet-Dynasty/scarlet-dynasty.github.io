@@ -194,7 +194,7 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 <br>
 <br>
 
-# [Download UNO.mcworld](/download)
+# [Download UNO.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/uno/UNO_1.19.81.mcworld)
 
 - By downloading this map you agree to **NOT** republish, miscredit, sell or decompile/alter any of it's content for public usage.
 - You may view/edit the content files for personal use as well as share link to this page.
