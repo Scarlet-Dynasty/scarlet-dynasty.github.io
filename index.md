@@ -40,7 +40,7 @@ Now here we are, we came together again and started doing things together again,
 
 # Projects
 
-- **[Worlds](/worlds)**
+- **[Worlds](/maps)**
 - **[Add-Ons](/addons)**
 - **[Resource Packs](/resource-packs)**
 
