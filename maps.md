@@ -1,8 +1,8 @@
 ---
-title: Worlds
+title: Maps
 ---
 
-# [Birchview Estate](/worlds/birchview-estate)
+# [Birchview Estate](/maps/birchview-estate)
 
 Beautiful and idyllic estate on a mountain top, ready for you to begin your survival experience! It has everything you need to begin your journey and offers plenty of opportunity to expand it yourself. Enjoy!
 
@@ -10,7 +10,7 @@ Beautiful and idyllic estate on a mountain top, ready for you to begin your surv
 
 <br>
 
-# [UNO - Color Blind Friendly](/worlds/uno)
+# [UNO - Color Blind Friendly](/maps/uno)
 
 Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minecraft** with upto 10 friends featuring two maps; a cozy cottage & a lovely campsite!
 
@@ -18,7 +18,7 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 
 <br>
 
-# [Xmas Festival 2022](/worlds/xmas-festival)
+# [Xmas Festival 2022](/maps/xmas-festival)
 
 Come celebrate this Christmas Holidays with your friends on Scarlet Dynasty Xmas Festival Map! compete with your friends in a series of fun mini-games and groove in to our lovely Xmas music tracks!
 
