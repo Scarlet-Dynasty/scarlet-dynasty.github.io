@@ -202,7 +202,7 @@ Join our community Discord to become a part of the Beta Play Tester program!
 - By downloading this map you agree to **NOT** republish, miscredit, sell or decompile/alter any of it's content for public usage.
 - You may view/edit the content files for personal use.
 - You may use it on realms & servers as long as it is non-profit.
-- Only use link to this site if you wish to share this content with others.
+- If you wish to share this content with others, only use link to this site.
 - You are **NOT** allowed to create your own download links. 
 - Link this page in description if you stream or make videos.
 
