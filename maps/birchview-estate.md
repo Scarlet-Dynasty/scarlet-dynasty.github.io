@@ -20,10 +20,10 @@ Here's your chance! Scarlet Dynasty offers you just that with Birchview Estate!
 
 # Table Of Contents
 
-- [Features](/maps/brichview-estate#features)
-- [Screenshots](/maps/brichview-estate#screenshots)
-- [Credits](/maps/brichview-estate#credits)
-- [Download Birchview Estate.mcworld](/maps/brichview-estate#download-birchview-estatemcworld)
+- [Features](/maps/birchview-estate#features)
+- [Screenshots](/maps/birchview-estate#screenshots)
+- [Credits](/maps/birchview-estate#credits)
+- [Download Birchview Estate.mcworld](/maps/birchview-estate#download-birchview-estatemcworld)
 
 <br>
 <br>
