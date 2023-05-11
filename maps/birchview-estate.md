@@ -71,7 +71,7 @@ Who knows - maybe you'll be the major of a town someday if you dedicate yourself
 **INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
 - You may use it on realms & servers as long as it is non-profit.
-- Only use link to this site if you wish to share this content with others.
+- If you wish to share this content with others, only use link to this site.
 - You are **NOT** allowed to create your own download links. 
 - Link this page in description if you stream or make videos.
 
