@@ -58,23 +58,20 @@ Who knows - maybe you'll be the major of a town someday if you dedicate yourself
 
 # [Download Birchview Estate.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/birchview-estate/Birchview_Estate.mcworld)
 
+**INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
-- You may use it on private worlds, servers & realms as long as you give appropriate credits.
-- Only use link to this site if you wish to share this content with others
-- You are not allowed to create your own download links. 
-- Link this page in description if you make YouTube videos.
+- You may use it on realms & servers as long as it is non-profit.
+- Only use link to this site if you wish to share this content with others.
+- You are **NOT** allowed to create your own download links. 
+- Link this page in description if you stream or make videos.
+
+***Join our community Discord to get in touch with us, give feedback or report bugs.***
 
 <br>
 
-## [Give Feedback / Report Bugs](https://discord.gg/SaQbuBUuuw)
-
-<br>
-
-## Socials
-
-- **[Twitter](https://twitter.com/ScarletDynasty)** *Sneak-peaks & announcements.*
-- **[YouTube](https://www.youtube.com/channel/UCFZVpNDfKGdoArxYMBle4Hw)** *Content showcase & trailers.*
-- **[Discord](https://discord.gg/SaQbuBUuuw)** *Scarlet Dynasty community.*
+## [Discord](https://discord.gg/SaQbuBUuuw) *Scarlet Dynasty community.*
+## **[Twitter](https://twitter.com/ScarletDynasty)** *Sneak-peaks & announcements.*
+## **[YouTube](https://www.youtube.com/channel/UCFZVpNDfKGdoArxYMBle4Hw)** *Content showcase & trailers.*
 
 <br>
 <br>
