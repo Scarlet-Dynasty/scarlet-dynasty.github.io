@@ -11,6 +11,7 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 <br>
 
 # Table Of Contents
+
 - [Features](/maps/uno#features)
 - [How To Play](/maps/uno#how-to-play)
 - [UNO Rules](/maps/uno#uno-rules)
@@ -116,7 +117,6 @@ We have used pixelated version of **ColorADD Social** icons on our card textures
 > **Tip:** play all your special cards (+2, +4, reverse, skip, wild) as soon as possible because they cost more points if someone plays all their cards before you. Similarly, try to play all bigger number cards first.
 > 
 > ![20230506_073143](https://user-images.githubusercontent.com/99989764/236606111-20cadf35-074a-4067-a90d-6f5c64d6dadc.png)
-
 
 <br>
 <br>
