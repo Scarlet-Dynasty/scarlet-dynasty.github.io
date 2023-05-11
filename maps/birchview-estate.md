@@ -54,9 +54,13 @@ Who knows - maybe you'll be the major of a town someday if you dedicate yourself
 
 ![Birchview_Estate_Screenshot_2](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/208fcbf8-3acc-4827-a034-246f31db2455)
 
+<br>
+<br>
+<br>
+
 # Credits
 
-- Scarlet Phoenix
+**Scarlet Phoenix**
 
 <br>
 <br>
