@@ -30,8 +30,14 @@ Here's your chance! Scarlet Dynasty offers you just that with Birchview Estate!
 
 # Features
 
-You get a beautiful big house to start in. Comes with a horse stable with space for two, a lovely little pond to fish in, a little sawmill, a big wheat field and a wagon to go on large travels (or so you can imagine at least).<br>
-*You might also find a sword in a stone somewhere.*
+- You get a beautiful big house to start in.
+- Comes with a horse stable with space for two
+- A lovely little pond to fish in
+- A little sawmill
+- A big wheat field
+- A wagon to go on large travels (or so you can imagine at least).
+
+*You might also find a sword in a stone somewhere!*
 
 You get all the essential crafting stations to start your journey as well as the horse, Olivia! But you still have to work to get a proper start.
 
