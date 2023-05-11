@@ -177,7 +177,7 @@ Thanks to the fellow developers who assisted us and gave us directions when we h
 ## Beta Play Testers
 
 Thanks to all the players who volunteered to to join the Beta version of our map to help us play-test and make it as bug-free as possible before release ♥️
-- Aisy
+- AisyLuna
 - BendyTheDemon18
 - CallMeRanin
 - cen0b
