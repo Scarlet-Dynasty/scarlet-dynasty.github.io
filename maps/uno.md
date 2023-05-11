@@ -190,6 +190,8 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 - Superrichharp
 - Venerable Lord
 
+Join our community Discord to become a part of the Beta Play Tester program!
+
 <br>
 <br>
 <br>
@@ -199,20 +201,18 @@ Thanks to all the players who volunteered to to join the Beta version of our map
 **INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit, sell or decompile/alter any of it's content for public usage.
 - You may view/edit the content files for personal use.
-- You may use it on realms & servers as long as you give appropriate credits.
+- You may use it on realms & servers as long as it is non-profit.
 - Only use link to this site if you wish to share this content with others.
 - You are not allowed to create your own download links. 
 - Link this page in description if you stream or make videos.
 
-<br>
-
-## [Give Feedback / Report Bugs](https://discord.gg/SaQbuBUuuw)
+***Join our community Discord to get in touch with us, give feedback or report bugs.***
 
 <br>
 
+## [Discord](https://discord.gg/SaQbuBUuuw) *Scarlet Dynasty community.
 ## **[Twitter](https://twitter.com/ScarletDynasty)** *Sneak-peaks & announcements.*
 ## **[YouTube](https://www.youtube.com/channel/UCFZVpNDfKGdoArxYMBle4Hw)** *Content showcase & trailers.*
-## **[Discord](https://discord.gg/SaQbuBUuuw)** *Scarlet Dynasty community.*
 
 <br>
 <br>
