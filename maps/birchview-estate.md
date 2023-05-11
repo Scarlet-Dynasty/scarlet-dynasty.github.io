@@ -67,7 +67,7 @@ Who knows - maybe you'll be the major of a town someday if you dedicate yourself
 <br>
 <br>
 
-# [Download Birchview Estate.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/birchview-estate/Birchview_Estate.mcworld)
+# [Download Birchview Estate.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/birchview-estate/Birchview_Estate_1.18.10.mcworld)
 
 **INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
