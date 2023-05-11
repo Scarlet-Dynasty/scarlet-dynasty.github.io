@@ -11,13 +11,13 @@ Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minec
 <br>
 
 # Table Of Contents
-- [Features](/worlds/uno#features)
-- [How To Play](/worlds/uno#how-to-play)
-- [UNO Rules](/worlds/uno#uno-rules)
-- [Leaderboard](/worlds/uno#leaderboard)
-- [Statistics](/worlds/uno#statistics)
-- [Credits](/worlds/uno#credits)
-- [Download UNO.mcworld](/worlds/uno#download-unomcworld)
+- [Features](/maps/uno#features)
+- [How To Play](/maps/uno#how-to-play)
+- [UNO Rules](/maps/uno#uno-rules)
+- [Leaderboard](/maps/uno#leaderboard)
+- [Statistics](/maps/uno#statistics)
+- [Credits](/maps/uno#credits)
+- [Download UNO.mcworld](/maps/uno#download-unomcworld)
 
 <br>
 <br>
