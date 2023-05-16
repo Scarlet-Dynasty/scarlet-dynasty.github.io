@@ -39,9 +39,9 @@ Have you ever built something medieval and thought to yourself "hmm, how nice wo
 
 # Downloads
 
-- **[Clean Mosaic Glass.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass.mcpack)**
+- **[Clean Mosaic Glass full.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass_full.mcpack)**
     *- Includes textures for plain & coloured glasses.*
-- **[Clean Mosaic Glass.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass_full.mcpack)**
+- **[Clean Mosaic Glass.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass.mcpack)**
     *- Includes textures for plain glasses only.*
 
 **INSTALLATION GUIDELINES**
