@@ -77,7 +77,7 @@ This pack will come in bundles at a time, meaning this is not the FULL pack just
 <br>
 <br>
 
-# [Download Noble Endeavours.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/noble-endeavours/Noble_Endeavours_V2.mcpack)
+# [Download Noble Endeavours.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/noble-endeavours/Noble_Endeavours_V2.mcpack)
 
 **INSTALLATION GUIDELINES**
 - By downloading this pack you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
