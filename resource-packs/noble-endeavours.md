@@ -1,10 +1,14 @@
 ---
-title: Noble Endeavours
+title: Noble Endeavours V2
 ---
 
 Ever wanted to venture into a world that is completely different from the one you otherwise know as vanilla? This pack completely overhauls the standard textures and gives you a fabulous medieval/fantasy texture instead!
 
 ![Noble_Endeavours_thumbnail](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/a99a28df-0687-4146-b9df-4aa21900d370)
+
+This texture pack is a little special. It's the best work of Phoenix, and she is working really hard to perfect every single pixel in every single file! Is it for everyone? Most certainly not, but we guarantee that most medieval and/or fantasy enthusiasts will enjoy this very much! It changes the original textures from a very pixelated and dark-border theme to a more bright and smooth theme with more realistic nuances and colors - but of course it also has fantasy touches here and there to remain entertaining for the classic medieval enthusiasts!
+
+This pack will come in bundles at a time, meaning this is not the FULL pack just yet - but eventually it will be with future updates!
 
 <br>
 <br>
@@ -15,6 +19,40 @@ Ever wanted to venture into a world that is completely different from the one yo
 - [Screenshots](/resource-packs/noble-endeavours#screenshots)
 - [Credits](/resource-packs/noble-endeavours#screenshots)
 - [Download Noble Endeavours.mcpack](/resource-packs/noble-endeavours#download-noble-endeavoursmcpack)
+
+<br>
+<br>
+<br>
+
+# Features
+
+## Current Pack
+- All swords, axes, shovels, pickaxes & hoes
+- Shields, Flint and Steel, Shears, Tridents & Totems
+- Bows, Crossbows & Arrows (tipped arrows excluded for now)
+ 
+<br>
+<br>
+
+## Future Updates (not in order)
+- **Woods**
+    - all types and variants.
+- **Work Day**
+    - crafting tables, furnaces, smithing tables, cauldrons, anvils, grindstones, fletching tables, looms, brewing stand, cartography tables, enchantment tables, lecterns, bookshelves, composters, chests (trapped and ender too) & barrels.
+- **DJ Nightlife**
+    - noteblocks, jukeboxes & records a.k.a. music discs.
+- **Shulker Alert!**
+    - shulker shells, shulker boxes and shulker mobs.
+- **Stones 'n Metals**
+    - natherrack, stone, cobblestone, stone bricks, bricks, andesite, diorite, granite, blackstone, deepslate - (all before-mentioned with variants.)
+    - all ores, all metals, all raw metals, ancient debris, netherite scrap, netherite ingot, netherite block.
+- **Fauna Galore!**
+    - All grass, ferns, flowers.
+- **Potion Motion..**
+    - Glass bottles & and all potions.
+- **Better Netter** *yes, this is not a typo....*
+    - both nyliums, both wart blocks, netherwart, soul sand- and soil, magma block, basalt + variants, obsidian, crying obsidian, nether brick and the red one + variants.
+- **Fancier Iron Bars!**
 
 <br>
 <br>
