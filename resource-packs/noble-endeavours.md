@@ -16,6 +16,7 @@ This pack will come in bundles at a time, meaning this is not the FULL pack just
 
 # Table Of Contents
 
+- [Screenshots](/resource-packs/noble-endeavours#features)
 - [Screenshots](/resource-packs/noble-endeavours#screenshots)
 - [Credits](/resource-packs/noble-endeavours#screenshots)
 - [Download Noble Endeavours.mcpack](/resource-packs/noble-endeavours#download-noble-endeavoursmcpack)
