@@ -2,7 +2,7 @@
 title: Clean Mosaic Glass
 ---
 
-Have you ever built something medieval and thought to yourself "hmm, how nice would it be to have some proper mosaic glass textures for this particular build"... Well Here you are!
+Have you ever built something medieval and thought to yourself "hmm, how nice would it be to have some proper mosaic glass textures for this particular build..." Well, here you are!
 
 ![Clean_Mosaic_Glass_thumbnail](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/4ac946e7-24c9-4bb3-acfa-fd5c08f7b762)
 
@@ -39,13 +39,13 @@ Have you ever built something medieval and thought to yourself "hmm, how nice wo
 
 # Downloads
 
-- **[Clean Mosaic Glass.mcpack]**
+- **[Clean Mosaic Glass.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass.mcpack)**
     *- Includes textures for plain & coloured glasses.*
-- **[Clean Mosaic Glass.mcpack]**
+- **[Clean Mosaic Glass.mcpack](https://github.com/Scarlet-Dynasty/downloads/releases/download/clean-mosaic-glass/Clean_Mosaic_Glass_full.mcpack)**
     *- Includes textures for plain glasses only.*
 
 **INSTALLATION GUIDELINES**
-- By downloading this map you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
+- By downloading this pack you agree to **NOT** republish, miscredit or sell any of it's content for public usage.
 - You may use it on realms & servers as long as it is non-profit.
 - If you wish to share this content with others, only use link to this site.
 - You are **NOT** allowed to create your own download links. 
