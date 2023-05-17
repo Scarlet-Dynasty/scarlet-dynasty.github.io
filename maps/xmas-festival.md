@@ -2,6 +2,8 @@
 title: Xmas Festival 2022
 ---
 
+**Latest Update:** Xmas Festival `1.19.50` - dd/mm/yyyy
+
 Come celebrate this Christmas Holidays with your friends on Scarlet Dynasty Xmas Festival Map! compete with your friends in a series of fun mini-games and groove in to our lovely Xmas music tracks!
 
 ![Xmas_Festival_thumbnail](https://github.com/Scarlet-Dynasty/scarlet-dynasty.github.io/assets/99989764/e9652f62-654e-41e4-9068-26b77b55bd3f)
