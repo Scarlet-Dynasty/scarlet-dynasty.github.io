@@ -1,6 +1,8 @@
 ---
-title: Noble Endeavours V2
+title: Noble Endeavours
 ---
+
+**Latest Updated: Noble Endeavours V2**
 
 Ever wanted to venture into a world that is completely different from the one you otherwise know as vanilla? This pack completely overhauls the standard textures and gives you a fabulous medieval/fantasy texture instead!
 
