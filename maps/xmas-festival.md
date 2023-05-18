@@ -105,7 +105,7 @@ This map was made possible with the hard efforts of the Scarlet Dynasty developm
 <br>
 <br>
 
-# [Download Xmas Festival.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/xmas-festival/Xmas_Festival_2022.mcworld)
+# [Download Xmas Festival 2022.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/xmas-festival/Xmas_Festival_2022.mcworld)
 
 **INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit, sell or decompile/alter any of it's content for public usage.
