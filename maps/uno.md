@@ -2,7 +2,7 @@
 title: UNO - Color Blind Friendly
 ---
 
-**Latest Update: ` V1.1.1 ` - ` MC 1.19.81 ` - ` 10 May 2023 `**
+**Latest Update: `V1.1.1` - `MC 1.19.81` - `10 May 2023`**
 
 Pull up a seat in a cozy atmosphere to play a classic game of UNO now **in Minecraft** with upto 10 friends featuring two maps; a cozy cottage & a lovely campsite!
 
