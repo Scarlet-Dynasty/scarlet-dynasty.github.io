@@ -201,7 +201,15 @@ Join our community Discord to become a part of the Beta Play Tester program!
 <br>
 <br>
 
-# [Download UNO.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/uno/UNO_1.19.81.mcworld)
+# Changelogsㅤ`V1.1.2`
+
+- Fixed a bug where the game got cancelled on initial vote itself without taking 50% players vote into account for taking the action.
+
+<br>
+<br>
+<br>
+
+# [Download UNO.mcworld](https://github.com/Scarlet-Dynasty/downloads/releases/download/uno/UNO_V1.1.2.mcworld)
 
 **INSTALLATION GUIDELINES**
 - By downloading this map you agree to **NOT** republish, miscredit, sell or decompile/alter any of it's content for public usage.
