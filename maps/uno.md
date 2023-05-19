@@ -203,7 +203,7 @@ Join our community Discord to become a part of the Beta Play Tester program!
 
 # Changelogsㅤ`V1.1.2`
 
-- Fixed a bug where the game got cancelled on initial vote itself without taking 50% players vote into account for taking the action.
+- Fixed a bug where the game got cancelled on initial vote itself without taking 50% players vote into account for taking the action. (When using the 'Cancel Game' item.)
 
 <br>
 <br>
