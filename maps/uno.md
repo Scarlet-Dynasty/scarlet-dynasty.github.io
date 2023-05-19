@@ -2,7 +2,7 @@
 title: UNO - Color Blind Friendly
 ---
 
-**Latest Update:ㅤ`V1.1.1`ㅤ-ㅤ`MC 1.19.81`ㅤ-ㅤ`10 May 2023`**
+**Latest Update:ㅤ`V1.1.2`ㅤ-ㅤ`MC 1.19.83`ㅤ-ㅤ`19 May 2023`**
 
 <br>
 
