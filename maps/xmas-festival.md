@@ -2,7 +2,8 @@
 title: Xmas Festival 2022
 ---
 
-**Latest Update:ㅤ`V1.1.1`ㅤ-ㅤ`MC 1.19.50`**
+**Published:ㅤ`26 Dec 2022`**
+**Last Updated: `V1.1.1`ㅤ-ㅤ`MC 1.19.50`**
 
 <br>
 
